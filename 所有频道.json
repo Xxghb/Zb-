@@ -1,7 +1,4 @@
-{
-"uuid":"64350b50-a810-4901-b86b-7a5106bdef2c",
-"title":"所有频道",
-"channels":[
+{hannels":[
 {"name":"CCTV1","url":"http://223.110.245.159/ott.js.chinamobile.com/PLTV/3/224/3221225852/index.m3u8"},
 {"name":"CCTV1FHD","url":"http://223.110.245.159/ott.js.chinamobile.com/PLTV/3/224/3221225530/index.m3u8"},
 {"name":"CCTV1FHD","url":"http://223.110.245.165/ott.js.chinamobile.com/PLTV/3/224/3221226316/index.m3u8"},
